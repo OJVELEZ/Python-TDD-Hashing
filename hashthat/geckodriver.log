@@ -1,0 +1,38 @@
+1602102764250	geckodriver	INFO	Listening on 127.0.0.1:56814
+1602102767290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OVELEZ\\AppData\\Local\\Temp\\rust_mozprofileHCZjw7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602102771741	Marionette	INFO	Listening on port 56765
+1602102772023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602102772518	Marionette	INFO	Stopped listening on port 56765
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602103995689	geckodriver	INFO	Listening on 127.0.0.1:57782
+1602103998725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OVELEZ\\AppData\\Local\\Temp\\rust_mozprofile8kufbc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602104003001	Marionette	INFO	Listening on port 57791
+1602104003449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602104003906	Marionette	INFO	Stopped listening on port 57791
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602104004726	geckodriver	INFO	Listening on 127.0.0.1:57831
+1602104007732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OVELEZ\\AppData\\Local\\Temp\\rust_mozprofileyhTZKW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602104010929	Marionette	INFO	Listening on port 57843
+1602104011359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602104011861	Marionette	INFO	Stopped listening on port 57843
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
