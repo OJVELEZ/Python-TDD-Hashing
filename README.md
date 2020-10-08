@@ -261,10 +261,28 @@ Probar BD para ver el contenido del hash alojado en la BD y  crear su propia BD 
 			return render(request, 'hashing/hash.html', {'hash':hash})	
 				
 			
+_____________________________________________________________________________________
 
+Pruebas avanzadas
+
+		1-Descomentar las pruebas funcionales
+			resultado todas las pruebas OK
+			
+		2-En tests.py
+			from django.core.exceptions import ValidationError
+			
 		
 			
-	
+________________________________________________________________________________________
+
+TDD 
+
+		No es recomendable en entornos muy cambiantes
+		Al iniciar el proyecto
+		
+		Iniciar su uso luego de la V1.0
+		Priorizar funcionalidades y metodos
+		Cree pruebas para lo crucial
 	
 	
 	
